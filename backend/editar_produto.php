@@ -1,5 +1,5 @@
 <?php
-// Conectar ao banco de dados
+
 require_once 'conecta.php';
 
 if (isset($_GET['id'])) {
