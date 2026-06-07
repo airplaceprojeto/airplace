@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
             setTimeout(function() {
                 loader.style.display = 'none'; // Remove o loader após 3 segundos
                 resultadoFinal.style.display = 'block'; // Exibe a mensagem de sucesso
-            }, 3000); // Simulando o tempo de processamento de 3 segundos
+            }, 3001); // Simulando o tempo de processamento de 3 segundos
         });
     }
 
