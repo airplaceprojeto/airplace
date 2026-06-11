@@ -119,6 +119,7 @@ session_start(); // Inicia a sessão
             <li><a href="ofertas.php">Ofertas</a></li>
             <li><a href="drones.php">Conheça nossos Drones</a></li>
             <li><a href="airplay.php">Air Play</a></li>
+            <li><a href="atendimentos.php">Atendimento IA</a></li>
         </ul>
     </nav>
 </header>
