@@ -137,6 +137,7 @@ session_start();
                 <li><a href="ofertas.php">Ofertas</a></li>
                 <li><a href="produtos.php">Produtos</a></li>
                 <li><a href="airplay.php">Air Play</a></li>
+                <li><a href="atendimentos.php">Atendimento IA</a></li>
             </ul>
         </nav>
     </header>
