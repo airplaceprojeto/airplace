@@ -129,6 +129,7 @@ session_start();
                 <li><a href="ofertas.php">Ofertas</a></li>
                 <li><a href="produtos.php">Produtos</a></li>
                 <li><a href="drones.php">Conheça nossos Drones</a></li>
+                <li><a href="atendimentos.php">Atendimento IA</a></li>
             </ul>
         </nav>
     </header>
